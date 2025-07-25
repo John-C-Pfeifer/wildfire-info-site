@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Red Ridge Fire Department: Wildfire Information Center</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Red Ridge Fire Department: Wildfire Information Center</h1>
+    <nav>
+      <a href="#alerts">Alerts</a>
+      <a href="#about">About Us</a>
+      <a href="#info">Wildfire Info</a>
+      <a href="#safety">Safety &amp; Emergency</a>
+      <a href="#news">News &amp; Updates</a>
+      <a href="#resources">Resources</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section id="alerts">
+      <h2>Latest Wildfire Alerts</h2>
+      <p><strong>Current Alert:</strong> No active wildfires at this time.</p>
+    </section>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>Red Ridge Fire Department has served the community for over 50 years. Our firefighters are trained to respond quickly and effectively to wildfire emergencies and work with local residents to promote safety and preparedness.</p>
+    </section>
+    <section id="info">
+      <h2>Wildfire Information</h2>
+      <ul>
+        <li><strong>What Causes Wildfires?</strong> Wildfires can start from lightning strikes, human activity (campfires, discarded cigarettes), or accidents.</li>
+        <li><strong>How to Prevent Wildfires:</strong>
+          <ul>
+            <li>Never leave campfires unattended</li>
+            <li>Dispose of cigarettes properly</li>
+            <li>Clear dry brush from around your home</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <section id="safety">
+      <h2>Safety &amp; Emergency Procedures</h2>
+      <ul>
+        <li>Stay calm and follow evacuation instructions</li>
+        <li>Prepare an emergency kit</li>
+        <li>Check local news and alerts</li>
+        <li>Visit our <a href="#">Evacuation Map</a> to see recommended routes.</li>
+      </ul>
+    </section>
+    <section id="news">
+      <h2>News &amp; Updates</h2>
+      <ul>
+        <li>Community wildfire drill scheduled for August 15</li>
+        <li>New fire safety posters available for download</li>
+      </ul>
+    </section>
+    <section id="resources">
+      <h2>Resources</h2>
+      <ul>
+        <li><a href="#">Fire Safety Flyer</a></li>
+        <li><a href="#">Wildfire Preparedness Checklist</a></li>
+        <li><a href="#">Links to Official Fire Safety Organizations</a></li>
+      </ul>
+    </section>
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Have questions or want to report a local hazard? <a href="#">Contact us here</a>.</p>
+    </section>
+  </main>
+  <footer>
+    <p>Red Ridge Fire Department | Protecting our community from wildfires</p>
+  </footer>
+</body>
+</html>
